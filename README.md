@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmed-taha-dahmoul&label=Profile%20views&color=0e75b6&style=flat" alt="ahmed-taha-dahmoul" /> </p>
 
-- 🌱 I’m currently learning **Django , Django REST framework**
+- 🌱 I’m currently backend developer **Django , Django REST framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Taha-Dahmoul](https://github.com/Ahmed-Taha-Dahmoul)
 
