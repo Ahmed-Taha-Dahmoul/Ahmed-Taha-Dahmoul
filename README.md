@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ahmed-Taha-Dahmoul](https://github.com/Ahmed-Taha-Dahmoul)
 
-- 💬 Ask me about **Django , Python , Databases**
+- 💬 Ask me about **Django , Python , Databases** 
 
 - 📫 How to reach me **Dahmoulahmedtaha@gmail.com**
 
